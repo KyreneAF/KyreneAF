@@ -1,7 +1,8 @@
-### Hi there, welcome to my page!
-I'm Kyrene, a software engineer from Dalals, Texas! I love to get my hands dirty with code and paint. Here's what i've been up to!
+# Hi there, welcome to my page!
 
-Things I code with
+I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty with code and paint. Here's what I've been up to:
+
+## Things I code with
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,14 +19,14 @@ Things I code with
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-	![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
-My Top 5 movie recommendations
+## My Top 5 movie recommendations
 
-- Dinner in America(2020) my person fav!
-- Amadeus (1985)
-- Whiplash (2014)
-- Poor Little Things (2023)
+- **Dinner in America** (2020) - my personal favorite!
+- **Amadeus** (1985)
+- **Whiplash** (2014)
+- **Poor Little Things** (2023)
 <!--
 
 
