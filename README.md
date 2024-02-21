@@ -2,6 +2,11 @@
 
 I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty with code and paint. Here's what I've been up to:
 
+## My Passions
+- **Coding**: I'm passionate about building innovative software solutions and exploring new technologies.
+**Art** 🎨 **Yoga** 🧘‍♂️ **Reading** 📚 **Movies** 🎬 and most importantly **Cats** 😺
+- **Movies**: I enjoy watching a variety of movies, with a special fondness for indie films and classic masterpieces.
+
 ## Things I code with
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
