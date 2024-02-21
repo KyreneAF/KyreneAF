@@ -3,7 +3,7 @@
 I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty with code and paint. Here's what I've been up to:
 
 ## My Passions
-**Art** 🎨 **Yoga** 🧘‍♂️ **Reading** 📚 **Movies** 🎬 and most importantly **Cats** 😺
+**Art** 🎨   **Yoga** 🧘‍♂️   **Reading** 📚   **Movies** 🎬   and most importantly   **Cats** 😺
 
 
 ## Things I code with
