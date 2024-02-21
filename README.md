@@ -1,5 +1,5 @@
-### Hi there, I'm Kyrene welcome to my page!
-I'm Kyrene, a software engineer from Dalals Texas!
+### Hi there, welcome to my page!
+I'm Kyrene, a software engineer from Dalals, Texas! I love to get my hands dirty with code and paint. Here's what i've been up to!
 
 Things I code with
 
@@ -17,8 +17,10 @@ Things I code with
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+	![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
-My Top 5 movie recommendatiosn
+My Top 5 movie recommendations
 
 - Dinner in America(2020) my person fav!
 - Amadeus (1985)
