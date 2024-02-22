@@ -14,6 +14,8 @@ I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Sequelize]("https://img.shields.io/badge/Sequelize-%2366afe9.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%2307405e.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
