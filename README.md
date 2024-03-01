@@ -6,7 +6,9 @@
 I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty with code and paint. Here's what I've been up to:
 
 [Neon Noir](https://github.com/KyreneAF/Neon-Noir) - My most recent music streaming Solo Project
+
 [Itsy Bitsy](https://github.com/Bobarn/Itsy_Bitsy) - My Group ecommerce Project
+
 [Linkedin](https://www.linkedin.com/in/kyrene-flores-5870432a8/) 
 
 
