@@ -20,8 +20,8 @@ I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty
 
 ## My Top 5 movie recommendations
 <div>
-	<div>
-	<a href='https://www.rottentomatoes.com/m/dinner_in_america'><img height=50px width = 50px src="https://github.com/KyreneAF/KyreneAF/assets/129882345/f7d2461b-b482-4f8c-99f1-ab37b01da8b7"/><a/>
+	<div heigh=200px width=200>
+	<a href='https://www.rottentomatoes.com/m/dinner_in_america'><img height=150px width = 100px src="https://github.com/KyreneAF/KyreneAF/assets/129882345/f7d2461b-b482-4f8c-99f1-ab37b01da8b7"/><a/>
  	<h3>Dinner in America (2020) - My personal favorite!</h3>	
 	</div>
 <div/>
