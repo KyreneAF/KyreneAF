@@ -20,6 +20,7 @@ I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty
 
 ## My Top 5 movie recommendations
 <div>
+	<p>Im here!!!!</p>
 	<a href='https://www.rottentomatoes.com/m/dinner_in_america'><img src='src="https://github.com/KyreneAF/KyreneAF/assets/129882345/f7d2461b-b482-4f8c-99f1-ab37b01da8b7"'/><a/>
 <div/>
 
