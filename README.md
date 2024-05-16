@@ -1,8 +1,8 @@
 
 
 
-# Howdy, welcome to my page!
-<div><h1>Howdy welcome to my page!</h1></div>
+
+<div align=center padding=15px><h1>Howdy welcome to my page!</h1></div>
 
 **Art** 🎨   **Yoga** 🧘‍♂️   **Reading** 📚   **Movies** 🎬  **Cats** 😺
 
