@@ -19,8 +19,8 @@ I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Sequelize](https://img.shields.io/badge/Sequelize-%2366afe9.svg?style=for-the-badge&logo=GitHub&logoColor=black) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%2307405e.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
 ## My Top 5 movie recommendations
-<div display=inline-blockmargin=5px>
-  <div height=200px; width=200px>
+<div width=100% display=inline-blockmargin=5px>
+  <div height=220px; width=200px>
     <a href="https://www.rottentomatoes.com/m/dinner_in_america"
       ><img
         height="200px"
@@ -30,7 +30,7 @@ I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty
     <h5>Dinner in America (2020) - My personal fav!</h5>
   </div>
 
-  <div height=200px width=200px>
+  <div height=220px width=200px>
     <a href="https://www.rottentomatoes.com/m/amadeus"
       ><img
         height="200px"
@@ -40,7 +40,7 @@ I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty
     <h5>Amadeus (1985)</h5>
   </div>
 
-  <div height=200px width=200px>
+  <div height=220px width=200px>
     <a href="https://www.rottentomatoes.com/m/poor_things"
       ><img
         height="200px"
@@ -50,7 +50,7 @@ I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty
     <h5>Poor Thing (2023)</h5>
   </div>
 
-  <div height=200px; width=200px>
+  <div height=220px; width=200px>
     <a href="https://www.rottentomatoes.com/m/elvis"
       ><img
         height="200px"
@@ -60,7 +60,7 @@ I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty
     <h5>Elvis (2022)</h5>
   </div>
 
-  <div height=200px; width=200px>
+  <div height=220px; width=200px>
     <a href="https://www.rottentomatoes.com/m/midsommar"
       ><img
         height="200px"
