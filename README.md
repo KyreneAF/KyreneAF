@@ -28,7 +28,7 @@ I'm Kyrene, a software engineer based in Dallas, Texas! My journey began as an a
 
 
 
-## My Top 5 movie recommendations(Click below to see the rotten tomato score!)
+## My Top 5 movie recommendations (Click to see!)
 
 
 
