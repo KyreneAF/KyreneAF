@@ -22,8 +22,7 @@ I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty
 <div>
 	<div heigh=200px width=200>
 	<a href='https://www.rottentomatoes.com/m/dinner_in_america'><img height=200px width = 150px src="https://github.com/KyreneAF/KyreneAF/assets/129882345/f7d2461b-b482-4f8c-99f1-ab37b01da8b7"/><a/>
- 	<h5>Dinner in America (2020)</h5>
-	<h5> - My personal favorite!</h5>	
+ 	<h5>Dinner in America (2020) -My personal fav!</h5>	
 	</div>
 		
 	<div heigh=200px width=200>
