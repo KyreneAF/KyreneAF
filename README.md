@@ -2,9 +2,11 @@
 
 
 # Howdy, welcome to my page!
-**Art** 🎨   **Yoga** 🧘‍♂️   **Reading** 📚   **Movies** 🎬  **Cats** 😺
 
+**Art** 🎨   **Yoga** 🧘‍♂️   **Reading** 📚   **Movies** 🎬  **Cats** 😺
+<div align=center>
 I'm Kyrene, a software engineer based in Dallas, Texas! My journey began as an artist, and I've seamlessly transitioned into the world of software engineering. While art and coding may seem worlds apart, I've discovered that they share a common thread: both demand meticulous planning, creative design, and precise execution. I bring my passion for painting and creativity, and channel it into crafting immersive full-stack applications.
+</div>
 <div>
 <div align=center>
 <p style="color: blue;"> Here's where to contact me:<p/>
@@ -12,6 +14,8 @@ I'm Kyrene, a software engineer based in Dallas, Texas! My journey began as an a
 <a href='https://kyreneaf.github.io/'><img height="25" src="https://img.shields.io/badge/PortFolio-yellow?logo=superuser&logoColor=white&style=for-the-badge" /><a/>
 <div/>
 <div/>
+
+---
 
 
 ## Things I code with
