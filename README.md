@@ -21,7 +21,7 @@ I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty
 ## My Top 5 movie recommendations
 <div>
 	<div heigh=200px width=200>
-	<a href='https://www.rottentomatoes.com/m/dinner_in_america'><img height=200px width = 150px src="https://github.com/KyreneAF/KyreneAF/assets/129882345/f7d2461b-b482-4f8c-99f1-ab37b01da8b7"/><a/>
+	<a href='https://www.rottentomatoes.com/m/dinner_in_america'><img height=200px width = 150px src="https://github.com/KyreneAF/KyreneAF/assets/129882345/f7d2461b-b482-4f8c-99f1-ab37b01da8b7"/></a>
  	<h5>Dinner in America (2020) -My personal fav!</h5>	
 	</div>
 		
@@ -36,12 +36,12 @@ I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty
 	</div>
  
 	<div heigh=200px width=200>
-	<a href='https://www.rottentomatoes.com/m/elvis'><img height=200px width = 150px src="https://github.com/KyreneAF/KyreneAF/assets/129882345/e29f7229-786b-4ba1-896e-6673f4a44ef1"/><a/>
+	<a href='https://www.rottentomatoes.com/m/elvis'><img height=200px width = 150px src="https://github.com/KyreneAF/KyreneAF/assets/129882345/e29f7229-786b-4ba1-896e-6673f4a44ef1"/></a>
  	<h5>Elvis (2022) </h5>	
 	</div>
  
 	<div heigh=200px width=200>
-	<a href='https://www.rottentomatoes.com/m/midsommar'><img height=200px width = 150px src="https://github.com/KyreneAF/KyreneAF/assets/129882345/0f29dd6e-d2b6-4c16-b531-5c87129dffd6"/><a/>
+	<a href='https://www.rottentomatoes.com/m/midsommar'><img height=200px width = 150px src="https://github.com/KyreneAF/KyreneAF/assets/129882345/0f29dd6e-d2b6-4c16-b531-5c87129dffd6"/></a>
  	<h5>Midsommer (2019)</h5>	
 	</div>
 <div/>
