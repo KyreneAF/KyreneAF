@@ -1,5 +1,5 @@
 
-<div align=center padding=15px><h1>Howdy welcome to my page!</h1></div>
+# Howdy welcome to my page!
 
 **Art** 🎨   **Yoga** 🧘‍♂️   **Reading** 📚   **Movies** 🎬  **Cats** 😺
 
@@ -16,7 +16,7 @@ I'm Kyrene, a software engineer based in Dallas, Texas! My journey began as an a
 <div/>
 <div/>
 
-##
+
 
 
 ## Things I code with
