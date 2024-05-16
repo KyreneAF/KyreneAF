@@ -26,13 +26,13 @@ I'm Kyrene, a software engineer from Dallas, Texas! I love to get my hands dirty
 	</div>
 		
 	<div heigh=200px width=200>
-	<a href='[https://www.rottentomatoes.com/m/dinner_in_america](https://www.rottentomatoes.com/m/amadeus)'><img height=200px width = 150px src="https://github.com/KyreneAF/KyreneAF/assets/129882345/bae3c937-98da-4661-8c1f-69c8ad428f92"/><a/>
+	<a href='https://www.rottentomatoes.com/m/amadeus'><img height=200px width=150px src="https://github.com/KyreneAF/KyreneAF/assets/129882345/bae3c937-98da-4661-8c1f-69c8ad428f92"/><a/>
  	<h5>Amadeus (1985)</h5>	
 	</div>
  
 	<div heigh=200px width=200>
 	<a href='https://www.rottentomatoes.com/m/poor_things'><img height=200px width = 150px src="https://github.com/KyreneAF/KyreneAF/assets/129882345/785858d3-d591-42a3-8418-112ba8f904c9"/><a/>
- 	<h5>Poor Thing (2023) </h5>	
+ 	<h5>Poor Thing (2023)</h5>	
 	</div>
  
 	<div heigh=200px width=200>
