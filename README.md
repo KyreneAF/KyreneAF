@@ -1,21 +1,29 @@
 
-# Howdy welcome to my page!
-
-**Art** 🎨   **Yoga** 🧘‍♂️   **Reading** 📚   **Movies** 🎬  **Cats** 😺
-
-I'm Kyrene, a software engineer based in Dallas, Texas! My journey began as an artist, and I've seamlessly transitioned into the world of software engineering. While art and coding may seem worlds apart, I've discovered that they share a common thread: both demand meticulous planning, creative design, and precise execution. I bring my passion for painting and creativity, and channel it into crafting immersive full-stack applications.
 
 
 
 <div>
 <div align=center>
-<p style="color: blue;"> Here's where to contact me:</p>
+    <img width="400" height="400" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/de0bb182-f252-4934-bc0a-3cf1eaaca545" alt="Howdy welcome to my page!!">
   
-<a href='https://kyreneaf.github.io/'><img height="25" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-<a href='https://kyreneaf.github.io/'><img height="25" src="https://img.shields.io/badge/PortFolio-yellow?logo=superuser&logoColor=white&style=for-the-badge" /></a>
+
+  
+<p style="color: blue;"> Click below for my linkedin and portfolio:</p>
+
+<a href='https://www.linkedin.com/in/kyreneflores/'><img height="35" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/2972958d-43e9-4191-957b-8a7a7064d006" /></a>
+<a href='https://kyreneaf.github.io/'><img height="35" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/d409410c-a175-49ec-a571-de4bf2a88af7" /></a>
 </div>
 </div>
 
+
+<div>
+<div align=center>
+  
+  <p>I'm Kyrene, a software engineer based in Dallas, Texas! My journey began as an artist, and I've transitioned into the world of software engineering. While art and coding may seem worlds apart, I've discovered that they share a common thread: both demand meticulous planning, creative design, and precise execution. I bring my passion for painting and creativity, and channel it into crafting immersive full-stack applications. I love sharing my work and viewing others code. Welcome to coding scrapbook! </p>
+
+
+</div>
+</div>
 
 
 
@@ -26,12 +34,7 @@ I'm Kyrene, a software engineer based in Dallas, Texas! My journey began as an a
 
 
 
-## My Top 5 movie recommendations(Click to see!)
 
-[<img width="200" height="220" alt="Screenshot 2024-03-01 at 2 41 35 PM" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/f7d2461b-b482-4f8c-99f1-ab37b01da8b7">](https://www.rottentomatoes.com/m/dinner_in_america) [<img width="200" height="220" alt="Screenshot 2024-03-01 at 2 41 53 PM" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/bae3c937-98da-4661-8c1f-69c8ad428f92">](https://www.rottentomatoes.com/m/amadeus) [<img width="200" height="220" alt="Screenshot 2024-03-01 at 2 42 14 PM" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/785858d3-d591-42a3-8418-112ba8f904c9">](https://www.rottentomatoes.com/m/poor_things)  [<img width="200" height="220" alt="Screenshot 2024-03-01 at 2 43 17 PM" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/e29f7229-786b-4ba1-896e-6673f4a44ef1">](https://www.rottentomatoes.com/m/elvis) [<img width="200" height="220" alt="Screenshot 2024-03-01 at 2 44 17 PM" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/0f29dd6e-d2b6-4c16-b531-5c87129dffd6">](https://www.rottentomatoes.com/m/midsommar)
-
-
-#
 
 - 🔭 I’m currently working on my gains, Reading Dune, Getting AWS certified.
 - 🌱 I’m currently learning how to foster stray cats.
@@ -40,9 +43,19 @@ I'm Kyrene, a software engineer based in Dallas, Texas! My journey began as an a
 - ⚡ Fun fact:  Did you know that a day on Venus is longer than a year on Venus?
 
 <!--
+# Howdy welcome to my page!
 
+**Art** 🎨   **Yoga** 🧘‍♂️   **Reading** 📚   **Movies** 🎬  **Cats** 😺
+
+I'm Kyrene, a software engineer based in Dallas, Texas! My journey began as an artist, and I've seamlessly transitioned into the world of software engineering. While art and coding may seem worlds apart, I've discovered that they share a common thread: both demand meticulous planning, creative design, and precise execution. I bring my passion for painting and creativity, and channel it into crafting immersive full-stack applications.
 
 **KyreneAF/KyreneAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Top 5 movie recommendations(Click to see!)
+
+[<img width="200" height="220" alt="Screenshot 2024-03-01 at 2 41 35 PM" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/f7d2461b-b482-4f8c-99f1-ab37b01da8b7">](https://www.rottentomatoes.com/m/dinner_in_america) [<img width="200" height="220" alt="Screenshot 2024-03-01 at 2 41 53 PM" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/bae3c937-98da-4661-8c1f-69c8ad428f92">](https://www.rottentomatoes.com/m/amadeus) [<img width="200" height="220" alt="Screenshot 2024-03-01 at 2 42 14 PM" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/785858d3-d591-42a3-8418-112ba8f904c9">](https://www.rottentomatoes.com/m/poor_things)  [<img width="200" height="220" alt="Screenshot 2024-03-01 at 2 43 17 PM" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/e29f7229-786b-4ba1-896e-6673f4a44ef1">](https://www.rottentomatoes.com/m/elvis) [<img width="200" height="220" alt="Screenshot 2024-03-01 at 2 44 17 PM" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/0f29dd6e-d2b6-4c16-b531-5c87129dffd6">](https://www.rottentomatoes.com/m/midsommar)
+
+
+#
 
 Here are some ideas to get you started:
 
