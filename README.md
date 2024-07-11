@@ -19,7 +19,7 @@
 <div>
 <div align=center>
   
-  <p>I'm Kyrene, a software engineer based in Dallas, Texas! My journey began as an artist, and I've transitioned into the world of software engineering. While art and coding may seem worlds apart, I've discovered that they share a common thread: both demand meticulous planning, creative design, and precise execution. I bring my passion for painting and creativity, and channel it into crafting immersive full-stack applications. I love sharing my work and viewing others code. Welcome to coding scrapbook! </p>
+  <p>I'm Kyrene, a software engineer based out of Dallas, Texas! My journey began as an artist, and I've transitioned into the world of software engineering. While art and coding may seem worlds apart, I've discovered that they share a common thread: both demand meticulous planning, creative design, and precise execution. I bring my passion for painting and creativity, and channel it into crafting immersive full-stack applications. I love sharing my work and viewing others code. Welcome to my coding scrapbook! </p>
 
 
 </div>
