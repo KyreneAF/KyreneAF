@@ -11,7 +11,7 @@
 <p style="color: blue;"> Click below for my linkedin and portfolio:</p>
 
 <a href='https://www.linkedin.com/in/kyreneflores/' target="_blank"><img height="35" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/2972958d-43e9-4191-957b-8a7a7064d006" /></a>
-<a href='https://kyreneaf.github.io/'target="_blank"><img height="35" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/d409410c-a175-49ec-a571-de4bf2a88af7" /></a>
+<a href='https://kyreneaf.github.io/' target="_blank"><img height="35" src="https://github.com/KyreneAF/KyreneAF/assets/129882345/d409410c-a175-49ec-a571-de4bf2a88af7" /></a>
 </div>
 </div>
 
